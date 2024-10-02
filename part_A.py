@@ -59,10 +59,10 @@ def std_builtin(x):
 
     """
 
-    # Define N 
+    # Define N
     N = len(x)   
     
-    # Calculate the mean
+    # Calculate the mean 
     mean = sum(x)/N
 
     # Calculate the mean of squares
